@@ -1,0 +1,6 @@
+build/
+dist/
+sonic_history.db
+__pycache__/
+*.pyc
+model.safetensors
